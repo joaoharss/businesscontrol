@@ -10,7 +10,7 @@ Este projeto foi criado para aprimorar habilidades de desenvolvimento backend, f
 ✅ Construção de APIs seguras e bem estruturadas  
 ✅ Testes unitários e integração  
 ✅ CI/CD e deploy na nuvem (em breve)  
-
+ÇLAWENDFLÇNAJKLFNWAJKLFBNWAJKLFBNWALKN
 ---
 
 ## 🚀 Tecnologias Utilizadas
